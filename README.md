@@ -316,5 +316,11 @@ The UART interface between the custom controller and the motor control system pr
 
 Additional documentation, wiring diagrams, photographs and CAD files will be added as the project is updated.
 
+---
 
+## Development Status
+
+This project is continuously being developed and documented.
+
+More hardware improvements, firmware updates and additional features will be added in future versions.
 
